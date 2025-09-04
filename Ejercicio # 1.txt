@@ -1,0 +1,5 @@
+1. Crear en excel un archivo con las siguientes columnas: PRODUCTO, DESCRIPCION, PRECIO, IMAGEN (ingrese 5 productos)
+2. Busque las imagenes de cada producto en internet, las descarga y guarda la direccion en el archivo de excel
+3. Ingrese 5 productos, con sus respectivos datos 
+4. En publisher: Inserte la pagina de catalago
+5. Cree el estilo de su catalago
