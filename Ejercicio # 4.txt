@@ -1,1 +1,7 @@
 Usando las plantillas de publisher, genere una hoja de vida con todos los datos necesarios.
+Nombre completo
+Direccion
+Profesion
+Estudios secundarios
+Estudios superiores
+Experiencia laboral
