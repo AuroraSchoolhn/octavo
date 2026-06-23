@@ -1,4 +1,0 @@
-- IA para programar
-- IA para imagenes
-- IA para marketing
-- IA para videos 
